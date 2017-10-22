@@ -1,15 +1,15 @@
 # Lab29-CD1-Prep
 
 1. In a Google doc (required), create your resume in th following format
-  1. Personal Statement
-  2. Technical Skills
-  3. Projects
-  4. Education
-  5. Work History (4 & 5 are interchangable)
+  - Personal Statement
+  - Technical Skills
+  - Projects
+  - Education
+  - Work History (4 & 5 are interchangable)
   
 2.  Take a personality test. 
-  1. Myers-Briggs
-  2. Enneagram
+  - Myers-Briggs
+  - Enneagram
   
 3. Think about your "Why"
   1. brainstorm some ideas on what your "Why" is and how to clearly communicate it. 
